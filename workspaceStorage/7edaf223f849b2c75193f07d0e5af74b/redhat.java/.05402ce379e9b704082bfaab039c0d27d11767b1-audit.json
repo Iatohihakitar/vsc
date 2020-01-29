@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "c:\\Users\\Abraxas\\AppData\\Roaming\\Code\\User\\workspaceStorage\\7edaf223f849b2c75193f07d0e5af74b\\redhat.java\\.05402ce379e9b704082bfaab039c0d27d11767b1-audit.json",
+    "files": [
+        {
+            "date": 1572448682681,
+            "name": "c:\\Users\\Abraxas\\AppData\\Roaming\\Code\\User\\workspaceStorage\\7edaf223f849b2c75193f07d0e5af74b\\redhat.java\\client.log.2019-10-30",
+            "hash": "20b90ed671a6c5d35948a3a6ebe29a40"
+        }
+    ]
+}
