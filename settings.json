@@ -53,6 +53,7 @@
     "telemetry.enableTelemetry": false,
     "sync.autoUpload": true,
     "sync.autoDownload": true,
-    "workbench.colorTheme": "Default High Contrast",
-    "oneDarkPro.vivid": true
+    "workbench.colorTheme": "Monokai Dimmed",
+    "oneDarkPro.vivid": true,
+    "explorer.confirmDelete": false
 }
