@@ -33,7 +33,6 @@
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "workbench.startupEditor": "readme",
-    "workbench.iconTheme": "vs-minimal",
     "workbench.editor.closeOnFileDelete": true,
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.editor.tabSizing": "shrink",
@@ -53,7 +52,11 @@
     "telemetry.enableTelemetry": false,
     "sync.autoUpload": true,
     "sync.autoDownload": true,
-    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.colorTheme": "Monokai High Contrast",
     "oneDarkPro.vivid": true,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+    "bracket-pair-colorizer-2.highlightActiveScope": true,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.showBracketsInRuler": true
 }
